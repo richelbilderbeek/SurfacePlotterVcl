@@ -2,9 +2,9 @@
 
 Tool to do surface plotting using Warps function parser and the C++ VCL library.
  
-[SurfacePlotter (VCL)](ToolSurfacePlotterVcl.htm) is a [tool](Tools.htm)
+[SurfacePlotter (VCL)](https://github.com/richelbilderbeek/SurfacePlotterVcl) is a [tool](https://github.com/richelbilderbeek/tools)
 to make a surface plot and is the predecessor of
-[SurfacePlotter](ToolSurfacePlotter.htm).
+[SurfacePlotter](https://github.com/richelbilderbeek/SurfacePlotter).
 
 Note that this program uses [Warp's FunctionParser class](http://warp.povusers.org/FunctionParser) version 2.7, where the
 current version (of February 2010) exceeds 4.0. This is due to
@@ -17,7 +17,7 @@ class](http://warp.povusers.org/FunctionParser) to get it to compile.
 ![A screenshot of 'SurfacePlotter' (v.1.1)(png)](ToolSurfacePlotter_1_1.png)
 ![A screenshot of 'SurfacePlotter' (v.1.0)(png)](ToolSurfacePlotter_1_0.png)
 
- * [Download the 'SurfacePlotter' Windows executable (v.1.1)(zip)](ToolSurfacePlotterExe_1_2.zip)
+ * [Download the 'SurfacePlotter' Windows executable (v.1.1)(zip)](ToolSurfacePlotterExe_1_1.zip)
 
 ## External links
 
