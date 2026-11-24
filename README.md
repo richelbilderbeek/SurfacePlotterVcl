@@ -1,5 +1,7 @@
 # SurfacePlotterVcl
 
+[Go to the nicely rendered website](https://richelbilderbeek.github.io/SurfacePlotterVcl/).
+
 Tool to do surface plotting using Warps function parser and the C++ VCL library.
  
 [SurfacePlotter (VCL)](https://github.com/richelbilderbeek/SurfacePlotterVcl) is a [tool](https://github.com/richelbilderbeek/tools)
